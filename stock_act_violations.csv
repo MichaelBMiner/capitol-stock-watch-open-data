@@ -1,0 +1,861 @@
+filer_name,chamber,party,state,transaction_date,filing_date,disclosure_delay_days,is_late_filing,ticker,asset_name,security_type,transaction_type,amount_range,amount_min_usd,amount_max_usd,filing_url
+Jodey Arrington,house,Unknown,TX,2025-07-10,2026-10-27,474,Yes,,Montego,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035714.pdf
+Laurel Lee,house,R,FL,2026-08-24,2026-10-16,53,Yes,BAC,Bank of America Corporation Common Stock,stock,Sale (Full),"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf
+Harold Dallas Rogers,house,R,KY,2026-08-05,2026-09-23,49,Yes,,Redeemed Electronic Arts,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116342.pdf
+Scott H. Peters,house,D,CA,2026-08-06,2026-09-21,46,Yes,,West VY Mission CMN EDUC,stock,Purchase,"$250,001 - $500,000",250001,500000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+Scott H. Peters,house,D,CA,2026-08-05,2026-09-21,47,Yes,US-TBILL,U.S. Treasury Bill,stock,Sale (Partial),"$100,001 - $250,000",100001,250000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+Scott H. Peters,house,D,CA,2026-08-05,2026-09-21,47,Yes,,Smash Capital Fund II LP,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+Scott H. Peters,house,D,CA,2026-08-04,2026-09-21,48,Yes,,Enterprise CA,stock,Sale (Full),"$500,001 - $1,000,000",500001,1000000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+Scott H. Peters,house,D,CA,2026-08-03,2026-09-21,49,Yes,US-TBILL,U.S. Treasury Bill,stock,Purchase,"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+Scott H. Peters,house,D,CA,2026-08-03,2026-09-21,49,Yes,,Ro,stock,Purchase,"$250,001 - $500,000",250001,500000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+Scott H. Peters,house,D,CA,2026-08-03,2026-09-21,49,Yes,,Palmdale CA Sch,stock,Sale (Full),"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+John W. Rose,house,R,TN,2025-06-03,2026-09-12,466,Yes,,American Funds AMCAP Fund Class A M/F,stock,Sale (Full),"$500,001 - $1,000,000",500001,1000000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035445.pdf
+John W. Rose,house,R,TN,2025-06-03,2026-09-12,466,Yes,GOOGL,Alphabet Inc. - Class A Common Stock,stock,Sale (Full),"$250,001 - $500,000",250001,500000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035444.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,ZTS,Zoetis Inc. Class A Common Stock,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,WDC,Western Digital Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,VZ,Verizon Communications Inc. Common Stock,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,UBER,"Uber Technologies, Inc. Common Stock",stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,TTD,"The Trade Desk, Inc. - Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,PGR,Progressive Corporation,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,PSKY,Paramount Skydance Corporation - Class B Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,PLTR,Palantir Technologies Inc. - Class A Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,NVDA,NVIDIA Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,MSFT,Microsoft Corporation - Common Stock,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,MRVL,"Marvell Technology, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,LITE,Lumentum Holdings Inc. - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,KVUE,Kenvue Inc. Common Stock,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,IBM,International Business Machines Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,EA,Electronic Arts Inc. - Common Stock,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,DD,"DuPont de Nemours, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,CRWD,"CrowdStrike Holdings, Inc. - Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,STZ,"Constellation Brands, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,CMCSA,Comcast Corporation - Class A Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,COIN,"Coinbase Global, Inc. - Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,APP,Applovin Corporation - Class A Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,AMD,"Advanced Micro Devices, Inc.",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-17,2026-09-04,49,Yes,ACN,Accenture plc Class A Ordinary Shares,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,PCVX,"Vaxcyte, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,USPH,"U.S. Physical Therapy, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,SPXC,"SPX Technologies, Inc. Common Stock",stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,SFM,"Sprouts Farmers Market, Inc. - Common Stock",stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,SKWD,"Skyward Specialty Insurance Group, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,SMTC,Semtech Corporation - Common Stock,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,RBC,RBC Bearings Incorporated Common Stock,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,LAMR,Lamar Advertising Company - Class A Common Stock,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,HLI,"Houlihan Lokey, Inc. Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,FERG,Ferguson Enterprises Inc. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,FN,Fabrinet Ordinary Shares,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,EPAC,Enerpac Tool Group Corp. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,CSW,"CSW Industrials, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,COMP,"Compass, Inc. Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-16,2026-09-04,50,Yes,AORT,"Artivion, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,COCO,"The Vita Coco Company, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,SF,Stifel Financial Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,SKWD,"Skyward Specialty Insurance Group, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,NHI,"National Health Investors, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,MTX,Minerals Technologies Inc. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,IRT,"Independence Realty Trust, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,HMN,Horace Mann Educators Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,HQY,"HealthEquity, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,EPAC,Enerpac Tool Group Corp. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,DCO,Ducommun Incorporated Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,BCRX,"BioCryst Pharmaceuticals, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,BCPC,Balchem Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-10,2026-09-04,56,Yes,ABCB,Ameris Bancorp - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-02,2026-09-04,64,Yes,CRDO,Credo Technology Group Holding Ltd - Ordinary Shares,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+Gilbert Cisneros,house,D,CA,2026-07-02,2026-09-04,64,Yes,AVAV,"AeroVironment, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035190.pdf
+John Boozman,senate,R,AR,2025-11-21,2026-08-24,276,Yes,EIPI,First Trust Exchange-Traded Fund VIII FT Energy In,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-21,2026-08-24,276,Yes,FTGC,First Trust Global Tactical Commodity Strategy Fun,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-21,2026-08-24,276,Yes,FISV,Fiserv Inc,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-21,2026-08-24,276,Yes,IWM,iShares Russell 2000 ETF,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-21,2026-08-24,276,Yes,IVV,iShares Core S&P 500 ETF,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-21,2026-08-24,276,Yes,LLY,Eli Lilly and Company,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-21,2026-08-24,276,Yes,TPYP,Tortoise North Amer Pipeline Fund,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-21,2026-08-24,276,Yes,VNQI,Vanguard Global ex-U.S. Real Estate ETF,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-21,2026-08-24,276,Yes,VEA,Vanguard FTSE Developed Markets ETF,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-20,2026-08-24,277,Yes,GEM,Goldman Sachs ActiveBeta Emerging Markets Equity E,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-20,2026-08-24,277,Yes,EFA,iShares MSCI EAFE ETF,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-20,2026-08-24,277,Yes,RNWGX,NEW WORLD FUND INC - Class R-6,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-13,2026-08-24,284,Yes,CRM,Salesforce Inc,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-11-06,2026-08-24,291,Yes,AAXJ,iShares MSCI All Country Asia ex Japan ETF,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/
+John Boozman,senate,R,AR,2025-04-22,2026-08-20,485,Yes,MSFT,Microsoft Corp,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/
+John Boozman,senate,R,AR,2025-04-16,2026-08-20,491,Yes,MSFT,Microsoft Corp,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/
+John Boozman,senate,R,AR,2025-04-16,2026-08-20,491,Yes,ORCL,Oracle Corp,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/
+John Boozman,senate,R,AR,2025-04-16,2026-08-20,491,Yes,UNH,Unitedhealth Group Inc,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/
+John Boozman,senate,R,AR,2025-04-15,2026-08-20,492,Yes,META,Meta Platforms Inc,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/
+John Boozman,senate,R,AR,2025-04-09,2026-08-20,498,Yes,HYG,iShares iBoxx $ High Yield Corporate Bond ETF,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/
+John Boozman,senate,R,AR,2025-04-08,2026-08-20,499,Yes,AVGO,Broadcom Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/
+John Boozman,senate,R,AR,2025-04-08,2026-08-20,499,Yes,CBOE,"Cboe Global Markets, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/
+John Boozman,senate,R,AR,2025-04-08,2026-08-20,499,Yes,COLPAL,COLGATE PALMOLIVE LTD.,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/
+John Boozman,senate,R,AR,2026-07-02,2026-08-17,46,Yes,TRV,"The Travelers Companies, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/
+John Boozman,senate,R,AR,2026-07-02,2026-08-17,46,Yes,,SPYM - Tradr 2X Long SPY Monthly ETF,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/
+John Boozman,senate,R,AR,2026-07-02,2026-08-17,46,Yes,CVX,Chevron Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/
+John Boozman,senate,R,AR,2026-07-02,2026-08-17,46,Yes,EL,"Estee Lauder Companies, Inc. (The) Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/
+John Boozman,senate,R,AR,2026-07-02,2026-08-17,46,Yes,SPYM,Tradr 2X Long SPY Monthly ETF,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/
+John Boozman,senate,R,AR,2026-07-02,2026-08-17,46,Yes,CVX,Chevron Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/
+John Boozman,senate,R,AR,2026-07-02,2026-08-17,46,Yes,EL,"Estee Lauder Companies, Inc. (The) Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/
+Scott H. Peters,house,D,CA,2026-07-01,2026-08-17,47,Yes,,Los Angeles Cnty CA TRANs,stock,Purchase,"$100,001 - $250,000",100001,250000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035191.pdf
+Michael Patrick Guest,house,R,MS,2025-12-16,2026-08-14,241,Yes,ELF,"e.l.f. Beauty, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf
+Michael Patrick Guest,house,R,MS,2025-12-16,2026-08-14,241,Yes,CVX,Chevron Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf
+Michael Patrick Guest,house,R,MS,2025-12-16,2026-08-14,241,Yes,ABNB,"Airbnb, Inc. - Class A Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf
+Shri Thanedar,house,D,MI,2026-01-09,2026-08-13,216,Yes,AAPL,Apple Inc. - Common Stock,stock,Sale (Partial),"$100,001 - $250,000",100001,250000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf
+Timothy P Sheehy,senate,R,MT,2025-11-04,2026-08-13,282,Yes,,"Max Ventures New World Opportunities Fund LP - Sana Labs AB
+                                        
+                                        
+                                        
+                                            
+                                                
+                                                    Company: Sana Labs AB
+                                                    
+                                                         (Stockholm, Sweden)
+                                                    
+                                                
+                                            
+
+                                            
+                                                Description: Education/Training",stock,Sale (Full),"$50,001 - $100,000",50001,100000,https://efdsearch.senate.gov/search/view/ptr/e15641c6-d632-4b7a-82d1-45c242b1515a/
+Timothy P Sheehy,senate,R,MT,2025-11-03,2026-08-13,283,Yes,,"WCAS XIV Co-Investors LLC - Grant Street Group
+                                        
+                                        
+                                        
+                                            
+                                                
+                                                    Company: Grant Street Group
+                                                    
+                                                         (Pittsburgh, PA)
+                                                    
+                                                
+                                            
+
+                                            
+                                                Description: Software Company",stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/e15641c6-d632-4b7a-82d1-45c242b1515a/
+Shri Thanedar,house,D,MI,2025-10-21,2026-08-13,296,Yes,MSTR,Strategy Inc - Class A Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf
+Derek Tran,house,D,CA,2025-07-28,2026-08-13,381,Yes,LTC,Litecoin,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035183.pdf
+Timothy P Sheehy,senate,R,MT,2025-07-08,2026-08-13,401,Yes,,"WCAS XIV Co-Investors LLC - AIA Contract Documents
+                                        
+                                        
+                                        
+                                            
+                                                
+                                                    Company: AIA Contract Documents
+                                                    
+                                                         (Washington, DC)
+                                                    
+                                                
+                                            
+
+                                            
+                                                Description: Construction Contract Software",stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/e15641c6-d632-4b7a-82d1-45c242b1515a/
+Timothy P Sheehy,senate,R,MT,2025-06-28,2026-08-13,411,Yes,,"Ansett Aerospace Holdings LLC - Regaero Holdings Pty Ltd
+                                        
+                                        
+                                        
+                                            
+                                                
+                                                    Company: Regaero Holdings Pty Ltd
+                                                    
+                                                         (Melbourne, Australia)
+                                                    
+                                                
+                                            
+
+                                            
+                                                Description: Aviation Training Facilities",stock,Sale (Full),"$500,001 - $1,000,000",500001,1000000,https://efdsearch.senate.gov/search/view/ptr/e15641c6-d632-4b7a-82d1-45c242b1515a/
+Timothy P Sheehy,senate,R,MT,2025-06-16,2026-08-13,423,Yes,,"WCAS XIV Co-Investors LLC - Constitution Surgery Alliance
+                                        
+                                        
+                                        
+                                            
+                                                
+                                                    Company: Constitution Surgery Alliance
+                                                    
+                                                         (Avon, CT)
+                                                    
+                                                
+                                            
+
+                                            
+                                                Description: Healthcare Company",stock,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/e15641c6-d632-4b7a-82d1-45c242b1515a/
+Carol Devine Miller,house,R,WV,2025-03-10,2026-08-13,521,Yes,USB,U.S. Bancorp Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf
+Carol Devine Miller,house,R,WV,2025-03-10,2026-08-13,521,Yes,TGT,Target Corporation Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf
+Carol Devine Miller,house,R,WV,2025-03-10,2026-08-13,521,Yes,DGX,Quest Diagnostics Incorporated Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf
+Carol Devine Miller,house,R,WV,2025-03-10,2026-08-13,521,Yes,PFE,"Pfizer, Inc. Common Stock",stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf
+Rick Scott,senate,R,FL,2025-02-07,2026-08-13,552,Yes,,"Charlotte NC Water & Sewer Sys Revenue Bond
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 5.0% Matures: 07/01/2054",stock,Purchase,"$250,001 - $500,000",250001,500000,https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/
+Rick Scott,senate,R,FL,2025-02-07,2026-08-13,552,Yes,,"Charlotte NC Water & Sewer Sys Revenue Bond
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 5.0% Matures: 07/01/2054",stock,Purchase,"$500,001 - $1,000,000",500001,1000000,https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/
+Rick Scott,senate,R,FL,2025-02-07,2026-08-13,552,Yes,,"Charlotte NC Water & Sewer Sys Revenue Bond
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 5.0% Matures: 07/01/2054",stock,Purchase,"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/
+Rick Scott,senate,R,FL,2025-02-07,2026-08-13,552,Yes,,"Port of Seattle Washington Revenue Bond
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 5.0% Matures: 05/01/2026",stock,Sale (Full),"$250,001 - $500,000",250001,500000,https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/
+Rick Scott,senate,R,FL,2025-02-07,2026-08-13,552,Yes,,"Port of Seattle Washington Revenue Bond
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 5.0% Matures: 05/01/2026",stock,Sale (Full),"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/
+Rick Scott,senate,R,FL,2025-02-07,2026-08-13,552,Yes,,"Central Texas Regional Mobility Auth Revenue Bond
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 5.0% Matures: 2040-01-01",stock,Sale (Full),"$500,001 - $1,000,000",500001,1000000,https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/
+Tracey Robert Mann,house,R,KS,2024-09-09,2026-08-13,703,Yes,NVDA,Nvidia Corporation,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf
+Tracey Robert Mann,house,R,KS,2024-09-09,2026-08-13,703,Yes,META,Meta Platforms,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf
+Tracey Robert Mann,house,R,KS,2024-09-09,2026-08-13,703,Yes,MSFT,Microsoft Corporation,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf
+Tracey Robert Mann,house,R,KS,2024-09-09,2026-08-13,703,Yes,GOOGL,Alphabet Incorporated,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf
+Tracey Robert Mann,house,R,KS,2024-09-09,2026-08-13,703,Yes,AAPL,Apple Incorporated,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf
+Tracey Robert Mann,house,R,KS,2024-08-20,2026-08-13,723,Yes,NVDA,Nvidia Corporation,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf
+Tracey Robert Mann,house,R,KS,2024-08-20,2026-08-13,723,Yes,META,Meta Platforms,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf
+Tracey Robert Mann,house,R,KS,2024-08-20,2026-08-13,723,Yes,MSFT,Microsoft Corporation,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf
+Tracey Robert Mann,house,R,KS,2024-08-20,2026-08-13,723,Yes,GOOGL,Alphabet Incorporated,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf
+Tracey Robert Mann,house,R,KS,2024-08-20,2026-08-13,723,Yes,AAPL,Apple Incorporated,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116292.pdf
+Mike Kelly,house,R,PA,2025-07-17,2026-08-12,391,Yes,,California Cmnty Choice Fing & Clean Ener 5% due 10/1/2034%,stock,Purchase,"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035203.pdf
+Ron L Wyden,senate,D,OR,2025-04-30,2026-08-08,465,Yes,AMCR,"BERY - Berry Global Group, Inc. (Exchanged)
+                                            
+                                            Amcor plc Ordinary Shares (Received)",stock,Exchange,"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/5ecc9b5c-07c1-4ec1-bd4a-2db759eff299/
+Michael Rulli,house,R,OH,2026-05-06,2026-08-07,93,Yes,PLTR,Palantir Technologies Inc. - Class A Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2026-05-06,2026-08-07,93,Yes,META,"Meta Platforms, Inc. - Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2026-02-20,2026-08-07,168,Yes,MSFT,Microsoft Corporation - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2026-02-05,2026-08-07,183,Yes,MSFT,Microsoft Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2026-01-09,2026-08-07,210,Yes,PLTR,Palantir Technologies Inc. - Class A Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2026-01-09,2026-08-07,210,Yes,META,"Meta Platforms, Inc. - Class A Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2026-01-02,2026-08-07,217,Yes,LLY,Eli Lilly and Company Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-12-03,2026-08-07,247,Yes,KO,Coca-Cola Company,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-12-02,2026-08-07,248,Yes,LLY,Eli Lilly and Company Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-10-27,2026-08-07,284,Yes,AAPL,Apple Inc. - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-10-06,2026-08-07,305,Yes,GEV,GE Vernova Inc. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-09-18,2026-08-07,323,Yes,META,"Meta Platforms, Inc. - Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-08-01,2026-08-07,371,Yes,NVDA,NVIDIA Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-08-01,2026-08-07,371,Yes,AAPL,Apple Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-07-31,2026-08-07,372,Yes,NVDA,NVIDIA Corporation - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-07-03,2026-08-07,400,Yes,AMZN,"Amazon.com, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-07-03,2026-08-07,400,Yes,GOOGL,Alphabet Inc. - Class A Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-05-07,2026-08-07,457,Yes,PRU,"Prudential Financial, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2025-01-14,2026-08-07,570,Yes,ORCL,Oracle Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2024-12-16,2026-08-07,599,Yes,NOW,"ServiceNow, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2024-12-12,2026-08-07,603,Yes,TMO,Thermo Fisher Scientific Inc Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Michael Rulli,house,R,OH,2024-11-26,2026-08-07,619,Yes,PFE,"Pfizer, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035147.pdf
+Julie Johnson,house,D,TX,2026-02-02,2026-08-05,184,Yes,FITB,Fifth Third Bancorp - Common Stock,stock,Exchange,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Thomas H Tuberville,senate,R,AL,2025-12-17,2026-08-05,231,Yes,GOOGL,Alphabet Cl A,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/
+Thomas H Tuberville,senate,R,AL,2025-12-17,2026-08-05,231,Yes,AAPL,Apple Inc,stock,Sale (Partial),"$50,001 - $100,000",50001,100000,https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/
+Thomas H Tuberville,senate,R,AL,2025-12-17,2026-08-05,231,Yes,XLV,SPDR Select Sector Fund - Health Care,stock,Purchase,"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/
+Thomas H Tuberville,senate,R,AL,2025-12-17,2026-08-05,231,Yes,XLP,SPDR Select Sector Fund - Consumer Staples,stock,Purchase,"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/
+Thomas H Tuberville,senate,R,AL,2025-12-17,2026-08-05,231,Yes,XLU,SPDR Select Sector Fund - Utilities,stock,Purchase,"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/
+Julie Johnson,house,D,TX,2025-12-08,2026-08-05,240,Yes,NOW,"ServiceNow, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-12-08,2026-08-05,240,Yes,NOW,"ServiceNow, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-12-08,2026-08-05,240,Yes,PEG,Public Service Enterprise Group Incorporated Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-12-08,2026-08-05,240,Yes,PEG,Public Service Enterprise Group Incorporated Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-12-08,2026-08-05,240,Yes,CMS,CMS Energy Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-12-08,2026-08-05,240,Yes,CMS,CMS Energy Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-12-02,2026-08-05,246,Yes,BA,Boeing Company,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-12-02,2026-08-05,246,Yes,BA,Boeing Company,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-30,2026-08-05,279,Yes,VRSK,"Verisk Analytics, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-30,2026-08-05,279,Yes,VRSK,"Verisk Analytics, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-30,2026-08-05,279,Yes,DGX,Quest Diagnostics Incorporated Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-30,2026-08-05,279,Yes,DGX,Quest Diagnostics Incorporated Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-30,2026-08-05,279,Yes,MDLZ,"Mondelez International, Inc. - Class A Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-30,2026-08-05,279,Yes,MDLZ,"Mondelez International, Inc. - Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-30,2026-08-05,279,Yes,IP,International Paper Company Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-30,2026-08-05,279,Yes,IP,International Paper Company Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-30,2026-08-05,279,Yes,ADBE,Adobe Inc. - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-30,2026-08-05,279,Yes,ADBE,Adobe Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-21,2026-08-05,288,Yes,WY,Weyerhaeuser Company Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-21,2026-08-05,288,Yes,WY,Weyerhaeuser Company Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-21,2026-08-05,288,Yes,GEN,Gen Digital Inc. - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-21,2026-08-05,288,Yes,GEN,Gen Digital Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-21,2026-08-05,288,Yes,FFIV,"F5, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-21,2026-08-05,288,Yes,FFIV,"F5, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-21,2026-08-05,288,Yes,DE,Deere & Company Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-21,2026-08-05,288,Yes,DE,Deere & Company Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-21,2026-08-05,288,Yes,ALK,"Alaska Air Group, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-21,2026-08-05,288,Yes,ALK,"Alaska Air Group, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Thomas H Tuberville,senate,R,AL,2025-10-07,2026-08-05,302,Yes,,"BIRMINGHAM ALA GO WTS SER. 2018 B
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 5.0% Matures: 12/01/2043",stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/
+Thomas H Tuberville,senate,R,AL,2025-10-07,2026-08-05,302,Yes,ORCL,Oracle Corporation Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/
+Thomas H Tuberville,senate,R,AL,2025-10-07,2026-08-05,302,Yes,GOOGL,Alphabet Inc. - Class A Common Stock,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/
+Thomas H Tuberville,senate,R,AL,2025-10-07,2026-08-05,302,Yes,AAPL,Apple Inc,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/
+Thomas H Tuberville,senate,R,AL,2025-10-07,2026-08-05,302,Yes,MSFT,Microsoft Corp,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/
+Thomas H Tuberville,senate,R,AL,2025-10-07,2026-08-05,302,Yes,OC,Owens Corning Inc,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/
+Thomas H Tuberville,senate,R,AL,2025-10-07,2026-08-05,302,Yes,PEP,Pepsico Inc,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/
+Julie Johnson,house,D,TX,2025-10-03,2026-08-05,306,Yes,VRSN,"VeriSign, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-03,2026-08-05,306,Yes,VRSN,"VeriSign, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-03,2026-08-05,306,Yes,KR,Kroger Company,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-03,2026-08-05,306,Yes,KR,Kroger Company,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-03,2026-08-05,306,Yes,FISV,"Fiserv, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-03,2026-08-05,306,Yes,FISV,"Fiserv, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-03,2026-08-05,306,Yes,CARR,Carrier Global Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-10-03,2026-08-05,306,Yes,CARR,Carrier Global Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,WEC,"WEC Energy Group, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,WEC,"WEC Energy Group, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,UDR,"UDR, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,UDR,"UDR, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,CI,The Cigna Group Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,CI,The Cigna Group Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,ROL,"Rollins, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,ROL,"Rollins, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,PAYC,"Paycom Software, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,PAYC,"Paycom Software, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,PAYX,"Paychex, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,PAYX,"Paychex, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,MNST,Monster Beverage Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,MNST,Monster Beverage Corporation - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,TAP,Molson Coors Beverage Company Class B Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,TAP,Molson Coors Beverage Company Class B Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,MKC,"McCormick & Company, Incorporated Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,MKC,"McCormick & Company, Incorporated Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,LYB,LyondellBasell Industries NV Ordinary Shares Class A,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,LYB,LyondellBasell Industries NV Ordinary Shares Class A,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,KEY,KeyCorp Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,KEY,KeyCorp Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,HON,Honeywell International Inc.,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,HON,Honeywell International Inc.,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,EQIX,"Equinix, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,EQIX,"Equinix, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,SRE,DBA Sempra Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,SRE,DBA Sempra Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,DVA,DaVita Inc. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,DVA,DaVita Inc. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,CL,Colgate-Palmolive Company Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,CL,Colgate-Palmolive Company Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,AEE,Ameren Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,AEE,Ameren Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,,"Agilent Technologies, Inc. Common Stock (A)",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,,"Agilent Technologies, Inc. Common Stock (A)",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,AOS,A.O. Smith Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-09-23,2026-08-05,316,Yes,AOS,A.O. Smith Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Julie Johnson,house,D,TX,2025-05-07,2026-08-05,455,Yes,MDT,Medtronic plc. Ordinary Shares,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,QCOM,Qualcomm Inc,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,MSFT,Microsoft Corp,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,MA,Mastercard Inc,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,LLY,Eli Lilly and Company,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,GS,Goldman Sachs Group,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,DUK,Duke Energy Corp,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,STZ,Constellation Brands Inc,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,CSX,CSX Corp,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,ADM,Archer Daniels Midland,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,AAPL,Apple Inc,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,AMGN,Amgen Inc,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,GOOGL,Alphabet Cl A,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,JPM,JP Morgan Chase & Company,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,USIG,iShares Broad USD Investment Grade Corporate Bond,stock,Purchase,"$50,001 - $100,000",50001,100000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,PYPL,Paypal Holdings,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Thomas H Tuberville,senate,R,AL,2025-04-15,2026-08-05,477,Yes,BMY,Bristol-Myers Squibb Company,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/
+Julie Johnson,house,D,TX,2025-03-15,2026-08-05,508,Yes,MMM,3M Company Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf
+Thomas H Tuberville,senate,R,AL,2025-01-10,2026-08-05,572,Yes,AAPL,Apple Inc,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/
+Thomas H Tuberville,senate,R,AL,2025-01-10,2026-08-05,572,Yes,MSFT,Microsoft Corp,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/
+Thomas H Tuberville,senate,R,AL,2025-01-10,2026-08-05,572,Yes,DEO,Diageo Plc ADR,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/
+Thomas H Tuberville,senate,R,AL,2025-01-10,2026-08-05,572,Yes,TXN,Texas Instruments Incorporated - Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/
+Thomas H Tuberville,senate,R,AL,2025-01-10,2026-08-05,572,Yes,CARR,Carrier Global Corp,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/
+Thomas H Tuberville,senate,R,AL,2025-01-10,2026-08-05,572,Yes,TSCO,Tractor Supply Company,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,TRV,"The Travelers Companies, Inc. Common Stock",stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,OC,Owens Corning Inc Common Stock New,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,,Otis Worldwide Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,,Nestle ADR,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,MSFT,Microsoft Corporation - Common Stock,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,MCD,McDonald's Corporation Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,KMB,Kimberly-Clark Corporation Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,JNJ,Johnson & Johnson Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,HON,Honeywell International Inc. - Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,CTVA,"Corteva, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,AAPL,Apple Inc. - Common Stock,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,ADBE,Adobe Inc. - Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,TRV,"The Travelers Companies, Inc. Common Stock",stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,OC,Owens Corning Inc Common Stock New,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,,Otis Worldwide Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,,Nestle ADR,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,MSFT,Microsoft Corporation - Common Stock,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,MCD,McDonald's Corporation Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,KMB,Kimberly-Clark Corporation Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,JNJ,Johnson & Johnson Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,HON,Honeywell International Inc. - Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,CTVA,"Corteva, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,AAPL,Apple Inc. - Common Stock,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-10-29,2026-08-05,645,Yes,ADBE,Adobe Inc. - Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/
+Thomas H Tuberville,senate,R,AL,2024-08-26,2026-08-05,709,Yes,ABNFX,"The Bond Fd of America Class F-2 Shares
+                                        
+                                        
+                                        
+                                            
+                                                
+                                                    Company: AMERICAN BOND FUND OF AMERICA CL F2",stock,Purchase,"$50,001 - $100,000",50001,100000,https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/
+Thomas H Tuberville,senate,R,AL,2024-08-26,2026-08-05,709,Yes,EIBLX,"Eaton Vance Floating Rate Fund Insti Share
+                                        
+                                        
+                                        
+                                            
+                                                
+                                                    Company: EATON VANCE FLOATING RATE CLASS I",stock,Sale (Full),"$50,001 - $100,000",50001,100000,https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/
+Thomas H Tuberville,senate,R,AL,2024-08-26,2026-08-05,709,Yes,UPS,"United Parcel Service, Inc. Common Stock",stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/
+Thomas H Tuberville,senate,R,AL,2024-08-26,2026-08-05,709,Yes,CVS,CVS Health Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/
+Thomas H Tuberville,senate,R,AL,2024-08-26,2026-08-05,709,Yes,MDT,Medtronic plc. Ordinary Shares,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/
+Thomas H Tuberville,senate,R,AL,2024-08-26,2026-08-05,709,Yes,AAPL,Apple Inc. - Common Stock,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/
+Thomas H Tuberville,senate,R,AL,2024-05-13,2026-08-05,814,Yes,CLF,Cleveland-Cliffs Inc,stock,Sale (Partial),"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-13,2026-08-05,814,Yes,CLF,Cleveland-Cliffs Inc,stock,Sale (Full),"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-13,2026-08-05,814,Yes,INTC,Intel Corp,stock,Sale (Partial),"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-13,2026-08-05,814,Yes,INTC,Intel Corp,stock,Sale (Full),"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,Cleveland-Cliffs Inc,stock,Sale (Partial),"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,Cleveland-Cliffs Inc,stock,Sale (Partial),"$50,001 - $100,000",50001,100000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,Cleveland-Cliffs Inc,stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,Cleveland-Cliffs Inc,stock,Sale (Partial),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,INTC,Intel Corporation - Common Stock,stock,Sale (Partial),"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $17.00
+                                                
+                                                Expires: 06/21/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,PARA,Paramount Global Cl B,stock,Sale (Full),"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,GILD,"Gilead Sciences Inc
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $70.00
+                                                
+                                                Expires: 11/15/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $17.00
+                                                
+                                                Expires: 01/17/2025",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+                                                Expires: 01/17/2025",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+                                                Expires: 07/19/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,ARKK,"Ark Innovation ETF
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $45.00
+                                                
+                                                Expires: 09/20/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-09,2026-08-05,818,Yes,INTC,Intel Corporation - Common Stock,stock,Purchase,"$50,001 - $100,000",50001,100000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-09,2026-08-05,818,Yes,KEY,"Keycorp
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $15.00
+                                                
+                                                Expires: 09/20/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-08,2026-08-05,819,Yes,GILD,"Gilead Sciences, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-08,2026-08-05,819,Yes,INTC,Intel Corporation - Common Stock,stock,Purchase,"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-08,2026-08-05,819,Yes,SWKS,"Skyworks Solutions, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-08,2026-08-05,819,Yes,ADBE,"Adobe Systems Inc
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $500.00
+                                                
+                                                Expires: 12/20/2024",put_option,Purchase,"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-08,2026-08-05,819,Yes,GOLD,"Barrick Gold Corp
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $17.00
+                                                
+                                                Expires: 01/17/2025",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-08,2026-08-05,819,Yes,XBI,"S&P Biotech SPDR
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $90.00
+                                                
+                                                Expires: 10/18/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-08,2026-08-05,819,Yes,XBI,"S&P Biotech SPDR
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $100.00
+                                                
+                                                Expires: 10/18/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,WMS,"Advanced Drainage Systems, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,GOLD,Barrick Gold Corp,stock,Sale (Full),"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,FITB,Fifth Third Bancorp - Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,INTC,Intel Corporation - Common Stock,stock,Purchase,"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,LSCC,Lattice Semiconductor Corporation - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,CCJ,"Cameco Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $45.00
+                                                
+                                                Expires: 09/20/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+                                                Expires: 11/15/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,CVX,"Chevron Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $145.00
+                                                
+                                                Expires: 09/20/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+                                                Expires: 06/21/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,GOLD,"Barrick Gold Corp
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+                                                Expires: 01/17/2025",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,FITB,"Fifth Third Bancorp - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $30.00
+                                                
+                                                Expires: 05/17/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,ARKK,"Ark Innovation ETF
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $51.00
+                                                
+                                                Expires: 12/20/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,A,"Agilent Technologies, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,ASML,ASML Holding N.V. - New York Registry Shares,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,BRO,"Brown & Brown, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,DOW,Dow Inc. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,CDNS,"Cadence Design Systems, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,CTAS,Cintas Corporation - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,CBSH,"Commerce Bancshares, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,CPRT,"Copart, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,DECK,Deckers Outdoor Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,ELS,"Equity Lifestyle Properties, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,FDS,FactSet Research Systems Inc. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,GLPI,"Gaming and Leisure Properties, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,GRMN,Garmin Ltd. - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,GGG,Graco Inc. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,JKHY,"Jack Henry & Associates, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,HSY,The Hershey Company Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,HUMA,"Humacyte, Inc. - Common Stock",stock,Sale (Partial),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,HUMA,"Humacyte, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,ITW,Illinois Tool Works Inc. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,INFY,Infosys Limited American Depositary Shares,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,KLAC,KLA Corporation  - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,LULU,lululemon athletica inc. - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,MA,Mastercard Incorporated Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,MPWR,"Monolithic Power Systems, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,MCO,Moody's Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,MSI,"Motorola Solutions, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,NFLX,"Netflix, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,NXPI,NXP Semiconductors N.V. - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,NDSN,Nordson Corporation - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,ODFL,"Old Dominion Freight Line, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,PAYX,"Paychex, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,PYPL,"PayPal Holdings, Inc. - Common Stock",stock,Sale (Full),"$100,001 - $250,000",100001,250000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,PEP,"PepsiCo, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Thomas H Tuberville,senate,R,AL,2024-05-03,2026-08-05,824,Yes,PFE,"Pfizer, Inc. Common Stock",stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/
+Laurel Lee,house,R,FL,2026-06-02,2026-07-19,47,Yes,BAC,Bank of America Corporation Common Stock,call_option,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf
+Laurel Lee,house,R,FL,2026-06-02,2026-07-19,47,Yes,NOK,Nokia Corporation Sponsored American Depositary Shares,call_option,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf
+Laurel Lee,house,R,FL,2026-05-11,2026-07-19,69,Yes,NOK,Nokia Corporation Sponsored American Depositary Shares,stock,Sale (partial),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034694.pdf
+Daniel Crenshaw,house,R,TX,2026-05-05,2026-07-16,72,Yes,META,"Meta Platforms, Inc. - Class A Common Stock",put_option,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf
+Daniel Crenshaw,house,R,TX,2026-04-28,2026-07-16,79,Yes,META,"L: US Meta Platforms, Inc. - Class A Common Stock",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf
+Ritchie John Torres,house,D,NY,2025-01-07,2026-07-08,547,Yes,MCK,2000143044 McKesson Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034224.pdf
+Scott H. Peters,house,D,CA,2026-05-04,2026-06-19,46,Yes,,San Juan CA,stock,Sale (partial),"$100,001",100001,200002,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034784.pdf
+Scott H. Peters,house,D,CA,2026-05-04,2026-06-19,46,Yes,,U.S. Treasury Bills,stock,Sale (partial),"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034784.pdf
+Scott H. Peters,house,D,CA,2026-05-01,2026-06-19,49,Yes,,CA Infrastructure,stock,Sale (Full),"$500,001 - $1,000,000",500001,1000000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034784.pdf
+Richard W. Allen,house,R,GA,2026-04-16,2026-06-05,50,Yes,ABT,Abbott Laboratories Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf
+Richard W. Allen,house,R,GA,2026-04-16,2026-06-05,50,Yes,INTU,Intuit Inc. - Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf
+Richard W. Allen,house,R,GA,2026-04-16,2026-06-05,50,Yes,PG,Procter & Gamble Company,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf
+Richard W. Allen,house,R,GA,2026-04-16,2026-06-05,50,Yes,SPGI,S&P Global Inc. Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf
+Richard W. Allen,house,R,GA,2026-04-16,2026-06-05,50,Yes,91282CJR3,US Treasury Note 3.75% DUE 12/31/28 ),stock,Sale (Full),"$100,001 - $250,000",100001,250000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf
+Richard W. Allen,house,R,GA,2026-04-16,2026-06-05,50,Yes,91282CJP7,US Treasury Note 4/375% DUE 12/15/26,stock,Sale (Full),"$100,001 - $250,000",100001,250000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf
+Richard W. Allen,house,R,GA,2026-04-15,2026-06-05,51,Yes,AMP,"Ameriprise Financial, Inc. Common Stock",stock,Sale (Full),"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf
+Tim Walberg,house,R,MI,2026-02-10,2026-06-03,113,Yes,UA,"Under Armour, Inc. Class C Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,AMZN,"Amazon.com, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,AAPL,Apple Inc. - Common Stock,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,BAC,Bank of America Corporation Common Stock,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,BA,Boeing Company,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,CAT,"Caterpillar, Inc. Common Stock",stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,CVX,Chevron Corporation Common Stock,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,ETN,"Eaton Corporation, PLC Ordinary Shares",stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,,Exxon Mobil Corporation Common,stock,Purchase,"$15,001",15001,30002,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,XOM,"- Stock $50,000 FS Specialty Lending Fund Common Shares of Beneficial Interest",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,J,Jacobs Solutions Inc. Common Stock,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,LHX,"L3Harris Technologies, Inc. Common Stock",stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,LMT,Lockheed Martin Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,UA,"Under Armour, Inc. Class C Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Tim Walberg,house,R,MI,2025-02-07,2026-06-03,481,Yes,WFC,Wells Fargo & Company Common Stock,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034660.pdf
+Christian D. Menefee,house,D,TX,2026-02-23,2026-06-01,98,Yes,PINS,"vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading. C: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading. Pinterest, Inc. Class A Common Stock",stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf
+Christian D. Menefee,house,D,TX,2026-02-17,2026-06-01,104,Yes,PINS,"vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading. C: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading. Pinterest, Inc. Class A Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf
+Christian D. Menefee,house,D,TX,2026-02-10,2026-06-01,111,Yes,BRK.B,Berkshire Hathaway Inc. New Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf
+Christian D. Menefee,house,D,TX,2026-02-10,2026-06-01,111,Yes,BRK.B,Berkshire Hathaway Inc. New Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf
+Christian D. Menefee,house,D,TX,2026-02-10,2026-06-01,111,Yes,BRK.B,Berkshire Hathaway Inc. New Common Stock,stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf
+Daniel Webster,house,R,FL,2025-02-26,2026-06-01,460,Yes,REXR,"Rexford Industrial Realty, Inc. Common Stock",stock,Sale (Full),"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034562.pdf
+Scott H. Peters,house,D,CA,2026-04-02,2026-05-18,46,Yes,,Anaheim CA Hsg Elec Util,stock,Sale (Full),"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034579.pdf
+Scott H. Peters,house,D,CA,2026-04-02,2026-05-18,46,Yes,,Los Angeles CA Wtr Swr Util,stock,Sale (Full),"$100,001 - $250,000",100001,250000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034579.pdf
+Scott H. Peters,house,D,CA,2026-04-02,2026-05-18,46,Yes,,Sacramento Muni Util Dist,stock,Sale (Full),"$100,001 - $250,000",100001,250000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034579.pdf
+Scott H. Peters,house,D,CA,2026-04-02,2026-05-18,46,Yes,,Sacramento Muni Util Dist,stock,Sale (Full),"$250,001 - $500,000",250001,500000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034579.pdf
+Scott H. Peters,house,D,CA,2026-04-02,2026-05-18,46,Yes,,U.S Treasury Bills,stock,Sale (partial),"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034579.pdf
+Steve Cohen,house,D,TN,2025-12-26,2026-05-15,140,Yes,SFGYY,2000154444 SONY FINL GROUP INC U/ADR,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034452.pdf
+Dwight Evans,house,D,PA,2025-11-21,2026-05-15,175,Yes,CVS,2000152177 CVS Health Corporation Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf
+Valerie Hoyle,house,D,OR,2025-04-02,2026-05-15,408,Yes,LPLA,LPL Financial Holdings Inc. - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034581.pdf
+Richard Dean McCormick,house,R,GA,2025-12-12,2026-04-07,116,Yes,,US Treasury Bill,stock,Purchase,"$100,001 - $250,000",100001,250000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033648.pdf
+Ed Case,house,D,HI,2025-11-13,2026-04-06,144,Yes,AAPL,Apple Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf
+Ed Case,house,D,HI,2025-08-14,2026-04-06,235,Yes,AAPL,Apple Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf
+Ed Case,house,D,HI,2025-05-15,2026-04-06,326,Yes,AAPL,Apple Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf
+Ed Case,house,D,HI,2025-02-13,2026-04-06,417,Yes,AAPL,Apple Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf
+Ed Case,house,D,HI,2024-11-14,2026-04-06,508,Yes,AAPL,Apple Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf
+Ed Case,house,D,HI,2024-08-15,2026-04-06,599,Yes,AAPL,Apple Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf
+Ed Case,house,D,HI,2024-05-16,2026-04-06,690,Yes,AAPL,Apple Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf
+Kelly Louise Morrison,house,D,MN,2026-01-20,2026-04-02,72,Yes,,Andersen Corporation,stock,Sale (partial),"$250,001 - $500,000",250001,500000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf
+Kelly Louise Morrison,house,D,MN,2025-12-22,2026-04-02,101,Yes,,Cavall,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf
+Kelly Louise Morrison,house,D,MN,2025-12-22,2026-04-02,101,Yes,,FluxAI,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf
+Kelly Louise Morrison,house,D,MN,2025-10-15,2026-04-02,169,Yes,,Andersen Corporation,stock,Sale (partial),"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf
+Kelly Louise Morrison,house,D,MN,2025-09-15,2026-04-02,199,Yes,,Andersen Corporation,stock,Sale (partial),"$100,001 - $250,000",100001,250000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf
+Kelly Louise Morrison,house,D,MN,2025-06-15,2026-04-02,291,Yes,,Andersen Corporation,stock,Sale (partial),"$250,001 - $500,000",250001,500000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf
+Kelly Louise Morrison,house,D,MN,2025-03-15,2026-04-02,383,Yes,,Andersen Corporation,stock,Sale (partial),"$250,001 - $500,000",250001,500000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf
+Kelly Louise Morrison,house,D,MN,2025-01-20,2026-04-02,437,Yes,,Andersen Corporation,stock,Sale (partial),"$500,001 - $1,000,000",500001,1000000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf
+Pramila Jayapal,house,D,WA,2023-10-31,2026-03-15,866,Yes,NWL,Newell Brands Inc.,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034160.pdf
+Scott H. Peters,house,D,CA,2025-12-04,2026-01-19,46,Yes,,U.S Treasury Bills,stock,Sale (partial),"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033815.pdf
+James D Jordan,house,R,OH,2025-10-27,2026-01-14,79,Yes,CBSI,"Central Bancshares, Inc. New",stock,Sale (Full),"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033803.pdf
+Julia Letlow,house,R,LA,2025-11-21,2026-01-13,53,Yes,STT,State Street Corporation Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-11-03,2026-01-13,71,Yes,CMG,"Chipotle Mexican Grill, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-11-03,2026-01-13,71,Yes,KO,Coca-Cola Company,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-11-03,2026-01-13,71,Yes,EXR,Extra Space Storage Inc Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-11-03,2026-01-13,71,Yes,SF,Stifel Financial Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-11-03,2026-01-13,71,Yes,DIS,Walt Disney Company,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-25,2026-01-13,80,Yes,,US Treasury Note 3/31/2025,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-23,2026-01-13,82,Yes,UHS,"Universal Health Services, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-22,2026-01-13,83,Yes,AMZN,"Amazon.com, Inc. - Common Stock",stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-22,2026-01-13,83,Yes,IBM,International Business Machines Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-22,2026-01-13,83,Yes,RELX,RELX PLC PLC American Depositary Shares,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-22,2026-01-13,83,Yes,RBLX,Roblox Corporation Class A Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-16,2026-01-13,89,Yes,ADBE,Adobe Inc. - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-16,2026-01-13,89,Yes,AVGO,Broadcom Inc. - Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-16,2026-01-13,89,Yes,PG,Procter & Gamble Company,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-16,2026-01-13,89,Yes,RBLX,Roblox Corporation Class A Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-16,2026-01-13,89,Yes,SYK,Stryker Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-02,2026-01-13,103,Yes,JCI,Johnson Controls International plc Ordinary Share,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-01,2026-01-13,104,Yes,AMZN,"Amazon.com, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-01,2026-01-13,104,Yes,INTU,Intuit Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-01,2026-01-13,104,Yes,KVUE,Kenvue Inc. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-01,2026-01-13,104,Yes,MU,"Micron Technology, Inc. - Common Stock",stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-10-01,2026-01-13,104,Yes,TW,Tradeweb Markets Inc. - Class A Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-09-22,2026-01-13,113,Yes,DE,Deere & Company Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-09-22,2026-01-13,113,Yes,DY,"Dycom Industries, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-09-22,2026-01-13,113,Yes,GTES,Gates Industrial Corporation plc Ordinary Shares,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-09-22,2026-01-13,113,Yes,INTC,Intel Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-09-17,2026-01-13,118,Yes,DLTR,"Dollar Tree, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-09-17,2026-01-13,118,Yes,MU,"Micron Technology, Inc. - Common Stock",stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-08-26,2026-01-13,140,Yes,ACI,"Albertsons Companies, Inc. Class A Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-08-26,2026-01-13,140,Yes,AIZ,"Assurant, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-08-26,2026-01-13,140,Yes,CMG,"Chipotle Mexican Grill, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-08-08,2026-01-13,158,Yes,CNC,Centene Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-08-08,2026-01-13,158,Yes,CF,"CF Industries Holdings, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-08-08,2026-01-13,158,Yes,GLOB,Globant S.A. Common Shares,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-08-08,2026-01-13,158,Yes,DINO,HF Sinclair Corporation Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-08-08,2026-01-13,158,Yes,HUM,Humana Inc. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-08-08,2026-01-13,158,Yes,LOW,"Lowe's Companies, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-29,2026-01-13,168,Yes,AJG,Arthur J. Gallagher & Co. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-29,2026-01-13,168,Yes,TTWO,"Take-Two Interactive Software, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-29,2026-01-13,168,Yes,TPR,"Tapestry, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-29,2026-01-13,168,Yes,TW,Tradeweb Markets Inc. - Class A Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-25,2026-01-13,172,Yes,AIG,"American International Group, Inc. New Common Stock",stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-25,2026-01-13,172,Yes,BA,Boeing Company,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-25,2026-01-13,172,Yes,EXE,Expand Energy Corporation - Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-25,2026-01-13,172,Yes,GLOB,Globant S.A. Common Shares,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-25,2026-01-13,172,Yes,JCI,Johnson Controls International plc Ordinary Share,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-25,2026-01-13,172,Yes,MTD,"Mettler-Toledo International, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-25,2026-01-13,172,Yes,CRM,"Salesforce, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-25,2026-01-13,172,Yes,TMO,Thermo Fisher Scientific Inc Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-25,2026-01-13,172,Yes,WBD,"Warner Bros. Discovery, Inc. - Series A Common Stock",stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-25,2026-01-13,172,Yes,WSM,"Williams-Sonoma, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-24,2026-01-13,173,Yes,ACN,Accenture plc Class A Ordinary Shares,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-24,2026-01-13,173,Yes,,"Goldman Sachs Group, Inc.",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-24,2026-01-13,173,Yes,DGX,Quest Diagnostics Incorporated Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-24,2026-01-13,173,Yes,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-24,2026-01-13,173,Yes,V,Visa Inc.,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-24,2026-01-13,173,Yes,WDAY,"Workday, Inc. - Class A Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-02,2026-01-13,195,Yes,GOOGL,Alphabet Inc. - Class A Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-02,2026-01-13,195,Yes,T,AT&T Inc.,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-02,2026-01-13,195,Yes,META,"Meta Platforms, Inc. - Class A Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-02,2026-01-13,195,Yes,SYF,Synchrony Financial Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-07-02,2026-01-13,195,Yes,BK,The Bank of New York Mellon Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-06-26,2026-01-13,201,Yes,,US Treasury Note 5/31/2026,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-06-17,2026-01-13,210,Yes,AMD,"Advanced Micro Devices, Inc.",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-06-17,2026-01-13,210,Yes,CSCO,"Cisco Systems, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-06-17,2026-01-13,210,Yes,PFE,"Pfizer, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-06-17,2026-01-13,210,Yes,WDAY,"Workday, Inc. - Class A Common Stock",stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-05-27,2026-01-13,231,Yes,STT,State Street Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-05-27,2026-01-13,231,Yes,UNH,UnitedHealth Group Incorporated Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-05-08,2026-01-13,250,Yes,LVS,Las Vegas Sands Corp. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-05-08,2026-01-13,250,Yes,MSFT,Microsoft Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-05-01,2026-01-13,257,Yes,AAPL,Apple Inc. - Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-28,2026-01-13,260,Yes,ABBV,AbbVie Inc. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-28,2026-01-13,260,Yes,BMY,Bristol-Myers Squibb Company Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-28,2026-01-13,260,Yes,DHR,Danaher Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-28,2026-01-13,260,Yes,DGX,Quest Diagnostics Incorporated Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-28,2026-01-13,260,Yes,TMO,Thermo Fisher Scientific Inc Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-22,2026-01-13,266,Yes,ACN,Accenture plc Class A Ordinary Shares,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-22,2026-01-13,266,Yes,DBX,"Dropbox, Inc. - Class A Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-22,2026-01-13,266,Yes,CI,The Cigna Group Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-22,2026-01-13,266,Yes,UNH,UnitedHealth Group Incorporated Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-14,2026-01-13,274,Yes,CNC,Centene Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-14,2026-01-13,274,Yes,MU,"Micron Technology, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-14,2026-01-13,274,Yes,TTWO,"Take-Two Interactive Software, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-11,2026-01-13,277,Yes,C,"Citigroup, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-04-11,2026-01-13,277,Yes,DOV,Dover Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-03-19,2026-01-13,300,Yes,JCI,Johnson Controls International plc Ordinary Share,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-03-13,2026-01-13,306,Yes,HPE,Hewlett Packard Enterprise Company Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-02-28,2026-01-13,319,Yes,GLOB,Globant S.A. Common Shares,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-02-24,2026-01-13,323,Yes,AFG,"American Financial Group, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-02-24,2026-01-13,323,Yes,AIG,"American International Group, Inc. New Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-02-24,2026-01-13,323,Yes,SLB,Schlumberger N.V. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-02-07,2026-01-13,340,Yes,EXR,Extra Space Storage Inc Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-02-07,2026-01-13,340,Yes,META,"Meta Platforms, Inc. - Class A Common Stock",stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-02-07,2026-01-13,340,Yes,CRM,"Salesforce, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-31,2026-01-13,347,Yes,AAPL,Apple Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-31,2026-01-13,347,Yes,C,"Citigroup, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-31,2026-01-13,347,Yes,DE,Deere & Company Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-31,2026-01-13,347,Yes,IR,Ingersoll Rand Inc. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-31,2026-01-13,347,Yes,META,"Meta Platforms, Inc. - Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-31,2026-01-13,347,Yes,MSFT,Microsoft Corporation - Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-31,2026-01-13,347,Yes,NVDA,NVIDIA Corporation - Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-24,2026-01-13,354,Yes,ABBV,AbbVie Inc. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-24,2026-01-13,354,Yes,ADBE,Adobe Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-24,2026-01-13,354,Yes,ACI,"Albertsons Companies, Inc. Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-24,2026-01-13,354,Yes,HPE,Hewlett Packard Enterprise Company Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-24,2026-01-13,354,Yes,PVH,PVH Corp. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-24,2026-01-13,354,Yes,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-24,2026-01-13,354,Yes,UHID,"Universal Health Services, Inc.",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-17,2026-01-13,361,Yes,MMM,3M Company Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-15,2026-01-13,363,Yes,ACN,Accenture plc Class A Ordinary Shares,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2025-01-15,2026-01-13,363,Yes,NEE,"NextEra Energy, Inc. Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-12-18,2026-01-13,391,Yes,AAPL,Apple Inc. - Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-12-18,2026-01-13,391,Yes,AVGO,Broadcom Inc. - Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-12-18,2026-01-13,391,Yes,MCK,McKesson Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-12-18,2026-01-13,391,Yes,MTD,"Mettler-Toledo International, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-12-18,2026-01-13,391,Yes,MU,"Micron Technology, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-12-11,2026-01-13,398,Yes,,CVS Health Corp,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-12-06,2026-01-13,403,Yes,AZPN,"Aspen Technology, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-12-06,2026-01-13,403,Yes,MSFT,Microsoft Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-12-06,2026-01-13,403,Yes,CRM,"Salesforce, Inc. Common Stock",stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-11-26,2026-01-13,413,Yes,TPR,"Tapestry, Inc. Common Stock",stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-11-19,2026-01-13,420,Yes,AFG,"American Financial Group, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-11-19,2026-01-13,420,Yes,AMGN,Amgen Inc. - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-11-19,2026-01-13,420,Yes,KHC,The Kraft Heinz Company - Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-11-19,2026-01-13,420,Yes,WAT,Waters Corporation Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-11-19,2026-01-13,420,Yes,WDAY,"Workday, Inc. - Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-11-05,2026-01-13,434,Yes,,US Treasury Note 10/31/2029,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-11-05,2026-01-13,434,Yes,,US Treasury Note 4/30/2025,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-11-01,2026-01-13,438,Yes,NEE,"NextEra Energy, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-11-01,2026-01-13,438,Yes,WBD,"Warner Bros. Discovery, Inc. - Series A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,Anheuser Busch InBev Fin,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,AT&T Inc.,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,CVS Health Corp,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,JPMorgan Chase & Co,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,Microsoft Corp,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,Pepsico Inc.,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,The Walt Disney Company,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,US Treasury Bond 8/15/2041,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,US Treasury Bond 8/15/2048,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,US Treasury Note 1/31/2029,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,US Treasury Note 10/31/2026,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,US Treasury Note 11/15/2032,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,US Treasury Note 4/30/2025,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,US Treasury Note 4/30/2025,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,US Treasury Note 5/15/2050,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,US Treasury Note 8/15/2028,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,US Treasury Note 8/15/2031,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,US Treasury Note 8/15/2034,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,Visa Inc.,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-25,2026-01-13,445,Yes,,Walmart Inc.,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,ABT,Abbott Laboratories Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,ABBV,AbbVie Inc. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,ACN,Accenture plc Class A Ordinary Shares,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,AA,Alcoa Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,AMZN,"Amazon.com, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,AMGN,Amgen Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,AAPL,Apple Inc. - Common Stock,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,AJG,Arthur J. Gallagher & Co. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,AZPN,"Aspen Technology, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,T,AT&T Inc.,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,BA,Boeing Company,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,BAH,Booz Allen Hamilton Holding Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,BMY,Bristol-Myers Squibb Company Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,AVGO,Broadcom Inc. - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,BXP,"BXP, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,CF,"CF Industries Holdings, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,CVX,Chevron Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,,Dover Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,DOV,"Dropbox, Inc. - Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,DUK,Duke Energy Corporation,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,EXE,Expand Energy Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,,"Goldman Sachs Group, Inc.",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,DINO,HF Sinclair Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,IR,Ingersoll Rand Inc. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,ICE,Intercontinental Exchange Inc. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,JPM,JP Morgan Chase & Co. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,KVUE,Kenvue Inc. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,LVS,Las Vegas Sands Corp. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,LOW,"Lowe's Companies, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,MKC,"McCormick & Company, Incorporated Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,META,"Meta Platforms, Inc. - Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,MSFT,Microsoft Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,NEE,"NextEra Energy, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,NUE,Nucor Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,NVDA,NVIDIA Corporation - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,PH,Parker-Hannifin Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,PM,Philip Morris International Inc Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,PINS,"Pinterest, Inc. Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,PNC,"PNC Financial Services Group, Inc.",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,PEG,Public Service Enterprise Group Incorporated Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,PVH,PVH Corp. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,SAIA,"Saia, Inc. - Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,CRM,"Salesforce, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,SLB,Schlumberger N.V. Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,SYK,Stryker Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,stock,Purchase,"$15,001 - $50,000",15001,50000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,TPR,"Tapestry, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,BK,The Bank of New York Mellon Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,CI,The Cigna Group Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,KHC,The Kraft Heinz Company - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,TMO,Thermo Fisher Scientific Inc Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,UNH,UnitedHealth Group Incorporated Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,VRTX,Vertex Pharmaceuticals Incorporated - Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,V,Visa Inc.,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,WAT,Waters Corporation Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,WFC,Wells Fargo & Company Common Stock,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,HCN,Welltower Inc.,stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,WSM,"Williams-Sonoma, Inc. Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Julia Letlow,house,R,LA,2024-10-23,2026-01-13,447,Yes,WDAY,"Workday, Inc. - Class A Common Stock",stock,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20030977.pdf
+Linda T. Sanchez,house,D,CA,2025-10-28,2026-01-09,73,Yes,CSCO,"Cisco Systems, Inc. - Common Stock",stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033755.pdf
