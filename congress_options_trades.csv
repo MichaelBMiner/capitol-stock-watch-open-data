@@ -1,0 +1,183 @@
+filer_name,chamber,party,state,transaction_date,filing_date,disclosure_delay_days,is_late_filing,ticker,asset_name,security_type,transaction_type,amount_range,amount_min_usd,amount_max_usd,filing_url,strike_price,expiration_date,days_to_expiration
+Rohit Khanna,house,D,CA,2026-09-30,2026-10-07,7,No,,PUT/XSP @ 729 EXP 12/18/2026,put_option,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf,729,2026-12-18,79
+Rohit Khanna,house,D,CA,2026-09-17,2026-10-07,20,No,,PUT/XSP @ 725 EXP 11/30/2026,put_option,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf,725,2026-11-30,74
+Rohit Khanna,house,D,CA,2026-09-11,2026-10-07,26,No,,CALL/ING FLEX EURO PM @ 36 EXP 09/11/2026,call_option,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf,36,2026-09-11,0
+Rohit Khanna,house,D,CA,2026-09-04,2026-10-07,33,No,,CALL/MSFT FLEX EURO PM 460 EXP 09/04/2026,call_option,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf,,2026-09-04,0
+Alan Armstrong,senate,R,OK,2026-08-20,2026-09-17,28,No,WMB,"Williams Companies, Inc. (The) Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $75.00
+                                                
+                                                Expires: 2026-08-21",call_option,Purchase,"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/,75,2026-08-21,1
+Alan Armstrong,senate,R,OK,2026-08-19,2026-09-17,29,No,WMB,"Williams Companies, Inc. (The) Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $75.00
+                                                
+                                                Expires: 2026-08-21",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/,75,2026-08-21,2
+Josh Gottheimer,house,D,NJ,2026-08-14,2026-09-14,31,No,MSFT,Microsoft Corporation - Common Stock,call_option,Sale (Full),"$500,001 - $1,000,000",500001,1000000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf,335,2026-12-18,126
+Josh Gottheimer,house,D,NJ,2026-08-14,2026-09-14,31,No,MSFT,Microsoft Corporation - Common Stock,call_option,Sale (Full),"$250,001 - $500,000",250001,500000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf,340,2026-12-18,126
+Josh Gottheimer,house,D,NJ,2026-08-14,2026-09-14,31,No,MSFT,Microsoft Corporation - Common Stock,call_option,Purchase,"$500,001 - $1,000,000",500001,1000000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf,330,2026-10-16,63
+Josh Gottheimer,house,D,NJ,2026-08-14,2026-09-14,31,No,MSFT,Microsoft Corporation - Common Stock,call_option,Purchase,"$250,001 - $500,000",250001,500000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf,340,2026-10-16,63
+Rohit Khanna,house,D,CA,2026-08-31,2026-09-04,4,No,,PUT/XSP @ 730 EXP 11/20/2026,put_option,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf,730,2026-11-20,81
+Rohit Khanna,house,D,CA,2026-08-20,2026-09-04,15,No,,PUT/XSP @ 725 EXP 10/30/2026,put_option,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf,725,2026-10-30,71
+Rohit Khanna,house,D,CA,2026-08-14,2026-09-04,21,No,,CALL/BBVA FLEX EURO PM 27 EXP 08/14/2026,call_option,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf,,2026-08-14,0
+Rohit Khanna,house,D,CA,2026-08-14,2026-09-04,21,No,,CALL/ING FLEX EURO PM @ 33 EXP 08/14/2026,call_option,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf,33,2026-08-14,0
+Rohit Khanna,house,D,CA,2026-08-12,2026-09-04,23,No,,PUT/XSP @ 735 EXP 10/30/2026,put_option,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf,735,2026-10-30,79
+Rohit Khanna,house,D,CA,2026-08-07,2026-09-04,28,No,,CALL/TMO FLEX EURO PM @ 555 EXP 08/07/2026,call_option,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf,555,2026-08-07,0
+Rohit Khanna,house,D,CA,2026-08-07,2026-09-04,28,No,,CALL/MSFT FLEX EURO PM 485 EXP 08/07/2026,call_option,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf,,2026-08-07,0
+Rohit Khanna,house,D,CA,2026-08-06,2026-09-04,29,No,,PUT/XSP @ 735 EXP 09/30/2026,put_option,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116328.pdf,735,2026-09-30,55
+Rohit Khanna,house,D,CA,2026-07-31,2026-08-07,7,No,,PUT/XSP @ 710 EXP 10/16/2026,put_option,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf,710,2026-10-16,77
+Rohit Khanna,house,D,CA,2026-07-23,2026-08-07,15,No,,PUT/XSP @ 690 EXP 10/16/2026,put_option,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf,690,2026-10-16,85
+Rohit Khanna,house,D,CA,2026-07-10,2026-08-07,28,No,,CALL/SMFG FLEX EURO PM 25 EXP 07/10/2026,call_option,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf,,2026-07-10,0
+Rohit Khanna,house,D,CA,2026-07-10,2026-08-07,28,No,,CALL/UBS FLEX EURO PM @ 50 EXP 07/10/2026,call_option,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf,50,2026-07-10,0
+Rohit Khanna,house,D,CA,2026-07-10,2026-08-07,28,No,,CALL/CCEP FLEX EURO PM 99 EXP 07/10/2026,call_option,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf,,2026-07-10,0
+Rohit Khanna,house,D,CA,2026-07-09,2026-08-07,29,No,,PUT/XSP @ 699 EXP 09/30/2026,put_option,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf,699,2026-09-30,83
+Rohit Khanna,house,D,CA,2026-07-02,2026-08-07,36,No,,CALL/JNJ FLEX EURO PM @ 245 EXP 07/02/2026,call_option,Purchase,"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf,245,2026-07-02,0
+Rohit Khanna,house,D,CA,2026-07-01,2026-08-07,37,No,,PUT/XSP @ 709 EXP 09/18/2026,put_option,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116267.pdf,709,2026-09-18,79
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $17.00
+                                                
+                                                Expires: 06/21/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,17,2024-06-21,42
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,GILD,"Gilead Sciences Inc
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $70.00
+                                                
+                                                Expires: 11/15/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,70,2024-11-15,189
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $17.00
+                                                
+                                                Expires: 01/17/2025",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,17,2025-01-17,252
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+                                                Expires: 01/17/2025",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,20,2025-01-17,252
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+                                                Expires: 07/19/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,20,2024-07-19,70
+Thomas H Tuberville,senate,R,AL,2024-05-10,2026-08-05,817,Yes,ARKK,"Ark Innovation ETF
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $45.00
+                                                
+                                                Expires: 09/20/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,45,2024-09-20,133
+Thomas H Tuberville,senate,R,AL,2024-05-09,2026-08-05,818,Yes,KEY,"Keycorp
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $15.00
+                                                
+                                                Expires: 09/20/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,15,2024-09-20,134
+Thomas H Tuberville,senate,R,AL,2024-05-08,2026-08-05,819,Yes,ADBE,"Adobe Systems Inc
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $500.00
+                                                
+                                                Expires: 12/20/2024",put_option,Purchase,"$15,001 - $50,000",15001,50000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,500,2024-12-20,226
+Thomas H Tuberville,senate,R,AL,2024-05-08,2026-08-05,819,Yes,GOLD,"Barrick Gold Corp
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $17.00
+                                                
+                                                Expires: 01/17/2025",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,17,2025-01-17,254
+Thomas H Tuberville,senate,R,AL,2024-05-08,2026-08-05,819,Yes,XBI,"S&P Biotech SPDR
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $90.00
+                                                
+                                                Expires: 10/18/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,90,2024-10-18,163
+Thomas H Tuberville,senate,R,AL,2024-05-08,2026-08-05,819,Yes,XBI,"S&P Biotech SPDR
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $100.00
+                                                
+                                                Expires: 10/18/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,100,2024-10-18,163
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,CCJ,"Cameco Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $45.00
+                                                
+                                                Expires: 09/20/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,45,2024-09-20,136
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+                                                Expires: 11/15/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,20,2024-11-15,192
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,CVX,"Chevron Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $145.00
+                                                
+                                                Expires: 09/20/2024",put_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,145,2024-09-20,136
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,CLF,"Cleveland-Cliffs Inc
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+                                                Expires: 06/21/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,20,2024-06-21,45
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,GOLD,"Barrick Gold Corp
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+                                                Expires: 01/17/2025",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,20,2025-01-17,255
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,FITB,"Fifth Third Bancorp - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $30.00
+                                                
+                                                Expires: 05/17/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,30,2024-05-17,10
+Thomas H Tuberville,senate,R,AL,2024-05-07,2026-08-05,820,Yes,ARKK,"Ark Innovation ETF
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $51.00
+                                                
+                                                Expires: 12/20/2024",call_option,Purchase,"$1,001 - $15,000",1001,15000,https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/,51,2024-12-20,227
+Josh Gottheimer,house,D,NJ,2026-05-19,2026-06-03,15,No,MSFT,Microsoft Corporation - Common Stock,call_option,Sale (Full),"$250,001 - $500,000",250001,500000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf,340,2026-10-16,150
+Josh Gottheimer,house,D,NJ,2026-05-19,2026-06-03,15,No,MSFT,Microsoft Corporation - Common Stock,call_option,Sale (Full),"$500,001 - $1,000,000",500001,1000000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf,330,2026-10-16,150
+Josh Gottheimer,house,D,NJ,2026-05-19,2026-06-03,15,No,MSFT,Microsoft Corporation - Common Stock,call_option,Purchase,"$250,001 - $500,000",250001,500000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf,325,2026-06-18,30
+Josh Gottheimer,house,D,NJ,2026-05-19,2026-06-03,15,No,MSFT,Microsoft Corporation - Common Stock,call_option,Purchase,"$500,001 - $1,000,000",500001,1000000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf,325,2026-06-18,30
+Josh Gottheimer,house,D,NJ,2026-03-25,2026-04-08,14,No,MSFT,Microsoft Corporation - Common Stock,call_option,Purchase,"$50,001 - $100,000",50001,100000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034305.pdf,325,2026-06-18,85
+Josh Gottheimer,house,D,NJ,2026-03-25,2026-04-08,14,No,MSFT,Microsoft Corporation - Common Stock,call_option,Purchase,"$500,001 - $1,000,000",500001,1000000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034305.pdf,320,2026-06-18,85
+Mike Kelly,house,R,PA,2026-03-18,2026-04-07,20,No,,Arizona St Transprtn Brd Highw Ref Rev Call 7/1/26 @100 .05% due 7/1/29,stock,Sale (Full),"$100,001 - $250,000",100001,250000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034302.pdf,100,,
+Mark Alford,house,R,MO,2026-03-16,2026-03-31,15,No,AMZN,"Amazon.com, Inc. - Common Stock",stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf,27.645,,
+Mark Alford,house,R,MO,2026-03-16,2026-03-31,15,No,AAPL,sold @ $493.42/share SPY – 8.318 shares sold @ $670.024/share DIA – 8.426 shares sold @ $470.985/share SPYD – 57.383 shares sold @ $46.04/share AMZN – 25 shares sold @ $209.40/share AAPL – 20.313 shares sold @ $253.45/share QQQ – 4.105 shares sold @ $601.68/share PYPL – 9.021 shares sold @ $47.735/share Apple Inc. - Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf,493.42,,
+Mark Alford,house,R,MO,2026-03-16,2026-03-31,15,No,T,sold @ $493.42/share SPY – 8.318 shares sold @ $670.024/share DIA – 8.426 shares sold @ $470.985/share SPYD – 57.383 shares sold @ $46.04/share AMZN – 25 shares sold @ $209.40/share AAPL – 20.313 shares sold @ $253.45/share QQQ – 4.105 shares sold @ $601.68/share PYPL – 9.021 shares sold @ $47.735/share AT&T Inc.,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf,493.42,,
+Mark Alford,house,R,MO,2026-03-16,2026-03-31,15,No,BRK.B,sold @ $493.42/share SPY – 8.318 shares sold @ $670.024/share DIA – 8.426 shares sold @ $470.985/share SPYD – 57.383 shares sold @ $46.04/share AMZN – 25 shares sold @ $209.40/share AAPL – 20.313 shares sold @ $253.45/share QQQ – 4.105 shares sold @ $601.68/share PYPL – 9.021 shares sold @ $47.735/share Berkshire Hathaway Inc. New Common Stock,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf,493.42,,
+Mark Alford,house,R,MO,2026-03-16,2026-03-31,15,No,,sold @ $493.42/share SPY – 8.318 shares sold @ $670.024/share DIA – 8.426 shares sold @ $470.985/share SPYD – 57.383 shares sold @ $46.04/share AMZN – 25 shares sold @ $209.40/share AAPL – 20.313 shares sold @ $253.45/share QQQ – 4.105 shares sold @ $601.68/share PYPL – 9.021 shares sold @ $47.735/share DIA - State Street SPDR Dow Jones Indust Avg ETF Trust NYSEARCA: DIA,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf,493.42,,
+Mark Alford,house,R,MO,2026-03-16,2026-03-31,15,No,,L: US sold @ $493.42/share SPY – 8.318 shares sold @ $670.024/share DIA – 8.426 shares sold @ $470.985/share SPYD – 57.383 shares sold @ $46.04/share AMZN – 25 shares sold @ $209.40/share AAPL – 20.313 shares sold @ $253.45/share QQQ – 4.105 shares sold @ $601.68/share PYPL – 9.021 shares sold @ $47.735/share Invesco QQQ,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf,493.42,,
+Mark Alford,house,R,MO,2026-03-16,2026-03-31,15,No,PYPL,"L: US sold @ $493.42/share SPY – 8.318 shares sold @ $670.024/share DIA – 8.426 shares sold @ $470.985/share SPYD – 57.383 shares sold @ $46.04/share AMZN – 25 shares sold @ $209.40/share AAPL – 20.313 shares sold @ $253.45/share QQQ – 4.105 shares sold @ $601.68/share PYPL – 9.021 shares sold @ $47.735/share PayPal Holdings, Inc. - Common Stock",stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf,493.42,,
+Mark Alford,house,R,MO,2026-03-16,2026-03-31,15,No,SPYB,sold @ $493.42/share SPY – 8.318 shares sold @ $670.024/share DIA – 8.426 shares sold @ $470.985/share SPYD – 57.383 shares sold @ $46.04/share AMZN – 25 shares sold @ $209.40/share AAPL – 20.313 shares sold @ $253.45/share QQQ – 4.105 shares sold @ $601.68/share PYPL – 9.021 shares sold @ $47.735/share SPDR S&P 500 Buyback ETF,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf,493.42,,
+Mark Alford,house,R,MO,2026-03-16,2026-03-31,15,No,SPYB,sold @ $493.42/share SPY – 8.318 shares sold @ $670.024/share DIA – 8.426 shares sold @ $470.985/share SPYD – 57.383 shares sold @ $46.04/share AMZN – 25 shares sold @ $209.40/share AAPL – 20.313 shares sold @ $253.45/share QQQ – 4.105 shares sold @ $601.68/share PYPL – 9.021 shares sold @ $47.735/share SPDR S&P 500 Buyback ETF,stock,Sale (partial),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf,493.42,,
+Austin Scott,house,R,GA,2026-02-17,2026-03-12,23,No,GE,GE Aerospace Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20032279.pdf,328.035,,
+Austin Scott,house,R,GA,2026-02-17,2026-03-12,23,No,GEV,GE Vernova Inc. Common Stock,stock,Sale (Full),"$1,001 - $15,000",1001,15000,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20032279.pdf,823.8,,
